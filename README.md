@@ -1,55 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Omer%20Faruk%20Kurt&fontSize=50)
+<h1 align="center">Hi 👋, I'm Omer Faruk</h1>
+<h3 align="center">A passionate backend developer from Turkiye</h3>
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+- Java,Jakarta EE, Spring Boot, JSF, PrimeFaces, IReport
 
-I'm a passionate and enthusiastic backend software engineer with 10+ years of experience developing software.
+- 🌱 I’m currently learning **nextjs,react**
 
-## Repo stats
-![kurtomerfaruk's github stats](https://github-readme-stats.vercel.app/api?username=kurtomerfaruk&count_private=true&show_icons=true&theme=synthwave&hide=contribs)&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtomerfaruk&layout=compact&&exclude_repo=ezprofile,kudo-app,iot-project,dashboardMaterialUi,react-sidebar-v1,sigma-react,shields,ezprofile,example-spring-converter-xml-json)&nbsp;&nbsp;&nbsp;&nbsp; 
+- 📝 I regularly write articles on [https://ofarukkurt.blogspot.com/](https://ofarukkurt.blogspot.com/)
 
-## Skill & Tool
-
-### **Language**: 
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  
-### **Frameworks**: 
-
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://img.shields.io/badge/jsf-%236DB33F.svg?style=for-the-badge&logo=jsf&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-  
-### **Infra**: 
-
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-
-### **Databases**: 
-
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+- 📫 How to reach me **kurtomerfaruk@gmail.com**
 
 
-### Languages 🗣
-TR-TR (Turkish)&nbsp;&nbsp;&nbsp;
-🇬🇧-🇺🇸 (English)&nbsp;&nbsp;&nbsp;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kurtomerfaruk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kurtomerfaruk1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ömer-faruk-kurt-7930a595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer-faruk-kurt-7930a595" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2811033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2811033" height="30" width="40" /></a>
+</p>
 
-
-## Contact me:
-
-<a href="https://www.linkedin.com/in/%C3%B6mer-faruk-kurt-7930a595/">
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:kurtomerfaruk@gmail.com">
-   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-   
-## Counter visitor
-![](https://komarev.com/ghpvc/?username=kurtomerfaruk&style=flat-square)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
